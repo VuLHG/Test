@@ -1,0 +1,1 @@
+Alter table BondingTest add UpperToMidSole varchar(10),UpperToMidSole_Min money,Stockfitting varchar(10),Stockfitting_Min money
